@@ -1,14 +1,14 @@
-# Botium-Toys-Internal-Security-Audit
+# Botium-Toys-Security-Audit-Writeup
 
 # Table of contents
 
-a [Introduction](#introduction)
-b [Scenario](#scenario)
-c [Internal Security Audit Workflow](#workflow)
-d [Controls Assessment](#control-assessment)
-e [Compliance Checklist](#compliance-checklist)
-f [Stakeholder Memorandum](#stakeholder-memo)
-g [Conclusion](#conclusion)
+1. [Introduction](#introduction)
+2. [Scenario](#scenario)
+3. [Internal Security Audit Workflow](#workflow)
+4. [Controls Assessment](#control-assessment)
+5. [Compliance Checklist](#compliance-checklist)
+6. [Stakeholder Memorandum](#stakeholder-memo)
+7. [Conclusion](#conclusion)
 
 -------
 
