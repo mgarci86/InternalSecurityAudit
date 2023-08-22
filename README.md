@@ -51,19 +51,21 @@ management
 The internal security audit can be broken down into two parts each with their own steps to follow.
 
 ### Part 1 (The Audit Planning Process)
+
 1. Establish scope and goals of the audit.
 2. Conducting a risk assessment of the Organizations assets
-### Part 2
-1. Conduct the Audit
-   - Complete Controls assessment 
-     - Select controls needing to be implemented.
-     - Rate each selected control on prioirty (i.e. needing to be implemented immediately or in the future).
-   - Complete Compliance checklist
-     - Explain why selected compliance regulations and standards need to be adhered to.
-2. Review results and deliverables completed in Part 1, Step #2
+   
+### Part 2 (Conduct The Audit)
+
+1. Complete a Controls assessment
+   - Select controls needing to be implemented.
+   - Prioritize selected controls
+2. Assess Compliance checklist
+   - Explain why selected compliance regulations and standards need to be adhered to.
+   - Review results
    - make note of findings
-   - consider how to summarize your recommendations clearly and concisely to stakeholders. 
-3. Send findings and recommendations to stakeholders in a concise format
+3. Communicate results to Stakeholders
+   - Summarize recommendations to communicate properly 
 
 
 Controls Assessment  <a name="control-assessment">
