@@ -161,10 +161,18 @@ Botium Toys will need to adhere to the following standards for the reasons liste
 
 
 -   System and Organizations Controls (SOC type 1, SOC type 2)
-   - The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels. They are used to assess an organization's financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
+   - The SOC1 and SOC2 are a series of reports that focus on an organization’s user
+     access policies at different organizational levels. They are used to assess an
+     organization’s financial compliance and levels of risk. They also cover
+     confidentiality, privacy, integrity, availability, security, and overall data safety.
+     Control failures in these areas can lead to fraud.
 
-      - Botium Toys needs to establish and maintain appropriate user access for internal and external (third-party vendor) personnel to mitigate risk and ensure data safey.
-      - Both of these standards evaluate the effectiveness of a company's internal controls. While SOC1 I focused on financial reporting controls, SOC2 is concerned with information security controls, including customer data safety. 
+      - Botium Toys needs to establish and maintain appropriate user access for internal and external (third-party vendor)
+        personnel to mitigate risk and ensure data safey.
+      - These standards are in place to evaluate the effectiveness of a company's internal controls. SOC type 1 is to be
+        focused
+        on financial reporting controls, SOC type2 is to be focused on information security controls,
+        including customer data safety. 
 ----------------
    
 
@@ -242,7 +250,7 @@ Please review the following information regarding the Botium Toys internal audit
 
   - To meet SOC1 and SOC2 guidance related to user access policies and overall data safety.
 
-**Findings** (should be addressed, but no immediate need):
+**Findings** (Need to be addressed within a timely matter):
 
 The following physical controls should be considered in the future once the critical findings have been resolved:
 
@@ -254,7 +262,10 @@ The following physical controls should be considered in the future once the crit
 
 **Summary/Recommendations:**
 
-It is recommended that the critical findings relating to compliance with PCI and GDPR be promptly addressed as Botium Toys accepts online payments is expanding to offer services and handle the data of customers abroad including the European Union. SOC1 and SOC2 guidance related to user access policies should be used to align to the audit goal to adapt to the concept of least permissions to develop the policies and procedures needed to be compliant.
+With the company expanding its e-commerce business overseas and into European Countries, It is recommended that Botium follows GDPR and PCI DSS immediately. Failure to comply with these regulations can lead to serious Monetary Fines and an interruption in business. 
+It is also recommended to update Password policies due to the weak password management of the company. Moving to a 2 factor authentication would be ideal. This would lessen the likelihood of accounts being compromised.
+In order to align with the audit goal it is recommended that SOC1 and SOC2 concepts be implemented. The concept of least permissions be developed to policies and procedures in order to be in line with best practices and compliance.  
+Seperation of Duties policies need to be implemented to prevent the risk an individual having too much access within the system and could prevent the system being used for personal gain. 
 
 Disaster recovery plans and backups are recommended as they will support business continuity in the event of an incident occuring ranging from a physical disaster such as a fire, or worse case scenario of a cyber attack or technical issue impacting business productivity  as a part of a data and system resilience strategy. A method of fire detection and prevention systems is worth consideration for protecting against physical attacks.
 
@@ -263,12 +274,10 @@ Integrating an IDS and AV software into current systems will give the ability to
 To secure assets at Botium Toys' phyiscal location, locks and CCTV should be used to secure physical assets and to monitor for potential threats. Having a time-controlled safe, adequate lighting, and signage indicating alarm service provider will further improve Botium Toys' security posture.
    
 # Conclusion  <a name="conclusion">
- This concludes my mock security audit writeup, I hope you found it useful and enlightening as I have. If there is any constructive feedback or  suggestions to improve and include, just let me know. 
+ While finding a helpful template, I found completing this exercise extremely self fulfilling. While analyzing all the information given I was able to use it in a real life situation. 
 
-**Self-Evaluation**: I did mostly well in determining what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning. 
+**Self-Evaluation**: The information given by Coursera to complete this assignment is so vast and can feel overwhelming at times. I think a few templates at the beginning would have helped tremendously. To give a top down approach of what a completed Security Audit should look like. This is the part that I struggled the most with. 
 
 **Lessons learned**: 
    
-   The part I struggled with mostly was using much details in my findings in the stakeholder's memorandum. I learned and spent alot of time on this to be more concisely and to the point. I learned to use a list, have my writing proofread and ensure I didnt repeat anything and to filter out information.
-   
-   I also some trouble initially in explaining how the System and Organizations Controls standard relates to organizational user access policies, confidentiality, privacy, integrity, availability, security, and overall data safety and levels of risks, not just financial compliance while conducting the audit.
+   The Most valuable lesson I learned in my opinion is how to use GITHUB and create a repository. Translating concepts that were given in the literature into a real life situation is ideal and the necessary hands on information that I believe I need to progress in this field. 
