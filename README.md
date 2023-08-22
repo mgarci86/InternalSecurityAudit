@@ -153,10 +153,11 @@ Botium Toys will need to adhere to the following standards for the reasons liste
      - PCI DSS is an international security standard meant to ensure that organizations storing, accepting,
        processing, and transmitting credit card information do so in a secure environment. 
 
-     - Botium Toys must adhere to PCI DSS, primarily based on where they conduct business and how they
-       accept payments. The majority of their business is done online, and the majority of their 
-       payments are done through Merchant Services and Payment Processing. PCI DSS provides best
-       practices to stay in compliance with regulation in order to avoid fines and penalties. 
+     - Botium Toys must adhere to PCI DSS, primarily based on where they conduct business
+       and how they accept payments. The majority of their business is done online, and
+       the majority of their payments are done through Merchant Services and Payment
+       Processing. PCI DSS provides best practices to stay in compliance with regulation
+       in order to avoid fines and penalties. 
 
 
 -   System and Organizations Controls (SOC type 1, SOC type 2)
