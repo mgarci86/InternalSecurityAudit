@@ -131,7 +131,7 @@ Assets managed by the IT Department include:
 | Locks | Preventative; physical and digital assets are more secure | X | High |
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | X | Medium/Low |
 
-Compliance checklist
+Compliance Checklist
 ====================
 
 To review compliance regulations and standards, read the [controls, frameworks, and compliance](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xu4pr/controls-frameworks-and-compliance) document.
@@ -147,9 +147,10 @@ Botium Toys will need to adhere to the following standards for the reasons liste
 
 -   Payment Card Industry Data Security Standard (PCI DSS)
 
-    - PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment. 
+         - PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment. 
 
-       - Botium Toys must adhere to PCI DSS as it accepts payments online and person and They also store and processes customer credit card on an international scale. It's requirements and compliance need to be taken seriously based on possible consequences. The consequences of not complying with this standard is more severe in impact: Monetary fines monthly (ranging from 5,000-100,000 USD), costs of forensic audits upon a data breach, payment brand restrictions, damage to brand reputation, and possibility of lawsuit costs in the event of data breaches. 
+         - Botium Toys must adhere to PCI DSS, primarily based on where they conduct business and how they accept payments. The majority of their business is done online, and the majority of their 
+           payments are done through Merchant Services and Payment Processing. PCI DSS provides best practices to stay in compliance with regulation in order to avoid fines and penalties. 
 
 
 -   System and Organizations Controls (SOC type 1, SOC type 2)
