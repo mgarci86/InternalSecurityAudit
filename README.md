@@ -263,8 +263,11 @@ The following physical controls should be considered in the future once the crit
 **Summary/Recommendations:**
 
 With the company expanding its e-commerce business overseas and into European Countries, It is recommended that Botium follows GDPR and PCI DSS immediately. Failure to comply with these regulations can lead to serious Monetary Fines and an interruption in business. 
+
 It is also recommended to update Password policies due to the weak password management of the company. Moving to a 2 factor authentication would be ideal. This would lessen the likelihood of accounts being compromised.
+
 In order to align with the audit goal it is recommended that SOC1 and SOC2 concepts be implemented. The concept of least permissions be developed to policies and procedures in order to be in line with best practices and compliance.  
+
 Seperation of Duties policies need to be implemented to prevent the risk an individual having too much access within the system and could prevent the system being used for personal gain. 
 
 Disaster recovery plans and backups are recommended as they will support business continuity in the event of an incident occuring ranging from a physical disaster such as a fire, or worse case scenario of a cyber attack or technical issue impacting business productivity  as a part of a data and system resilience strategy. A method of fire detection and prevention systems is worth consideration for protecting against physical attacks.
