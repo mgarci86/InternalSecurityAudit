@@ -1,4 +1,4 @@
-# Botium-Toys-Security-Audit-Writeup
+# Botium-Toys-Internal-Security-Audit
 
 # Table of contents
 
