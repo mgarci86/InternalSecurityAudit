@@ -141,6 +141,7 @@ Botium Toys will need to adhere to the following standards for the reasons liste
 -   General Data Protection Regulation (GDPR)
          - GDPR is a European Union (E.U.) general data regulation that protects the processing of E.U. citizens’ data and their right to privacy in and out of E.U. territory. Additionally, if a 
            breach occurs and a E.U. citizen’s data is compromised, they must be informed within 72 hours of the incident.
+    
          - With the increase of Botium Toys online presence and increasing sales expanding overseas. Keeping this market segments right to privacy in place is vital. Handling E.U. citizens Pii and 
            Sii data differently to be compliant.
    
@@ -163,11 +164,12 @@ Botium Toys will need to adhere to the following standards for the reasons liste
 
 # Stakeholder memorandum <a name="stakeholder-memo">
 
-TO: IT Manager, Stakeholders
+TO: Stakeholders
+CC: IT Manager
 
-FROM: Chris Jabbour\
-DATE: 06/09/2023\
-SUBJECT: Internal IT Audit Findings and Recommendations
+FROM: Michael Garcia\
+DATE: 08/21/2023\
+SUBJECT: Internal Security Audit Findings and Recommendations
 
 Dear Colleagues,
 
