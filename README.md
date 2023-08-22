@@ -136,11 +136,13 @@ Compliance checklist
 
 To review compliance regulations and standards, read the [controls, frameworks, and compliance](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xu4pr/controls-frameworks-and-compliance) document.
    
-I found that Botium Toys will need to adhere to the following standards:
+Botium Toys will need to adhere to the following standards for the reasons listed:
      
 -   General Data Protection Regulation (GDPR)
-      - GDPR is a European Union (E.U.) general data regulation that protects the processing of E.U. citizens' data and their right to privacy in and out of E.U. territory. Additionally, if a breach occurs and a E.U. citizen's data is compromised, they must be informed within 72 hours of the incident.
-         - Botium Toys is expanding to offer services and handle the data of customers abroad, GDPR compliance is in scope for the handling of financial and personal information for customers in the European Union.
+         - GDPR is a European Union (E.U.) general data regulation that protects the processing of E.U. citizens’ data and their right to privacy in and out of E.U. territory. Additionally, if a 
+           breach occurs and a E.U. citizen’s data is compromised, they must be informed within 72 hours of the incident.
+         - With the increase of Botium Toys online presence and increasing sales expanding overseas. Keeping this market segments right to privacy in place is vital. Handling E.U. citizens Pii and 
+           Sii data differently to be compliant.
    
 
 -   Payment Card Industry Data Security Standard (PCI DSS)
