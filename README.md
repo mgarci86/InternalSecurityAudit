@@ -2,13 +2,13 @@
 
 # Table of contents
 
-1. [Introduction](#introduction)
-2. [Scenario](#scenario)
-3. [Internal Security Audit Workflow](#workflow)
-4. [Controls Assessment](#control-assessment)
-5. [Compliance Checklist](#compliance-checklist)
-6. [Stakeholder Memorandum](#stakeholder-memo)
-7. [Conclusion](#conclusion)
+ [Introduction](#introduction)
+ [Scenario](#scenario)
+ [Internal Security Audit Workflow](#workflow)
+ [Controls Assessment](#control-assessment)
+ [Compliance Checklist](#compliance-checklist)
+ [Stakeholder Memorandum](#stakeholder-memo)
+ [Conclusion](#conclusion)
 
 -------
 
