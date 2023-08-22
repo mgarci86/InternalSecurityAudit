@@ -164,8 +164,7 @@ Botium Toys will need to adhere to the following standards for the reasons liste
 
 # Stakeholder memorandum <a name="stakeholder-memo">
 
-TO: Stakeholders
-CC: IT Manager
+TO: IT Manager, Stakeholders
 
 FROM: Michael Garcia\
 DATE: 08/21/2023\
